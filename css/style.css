@@ -10,6 +10,11 @@ body {
     /* font-family: 'Open Sans', sans-serif; */
 }
 
+/* h1 {
+    text-align: center;
+  } */
+
+
 #navmark{
     font-family: 'Orbitron', sans-serif;
     text-shadow: 4px 4px 4px #aaa;
@@ -59,4 +64,92 @@ body {
 .responsive {
     max-width: 100%;
     height: auto;
+}
+
+/* @-webkit-keyframes slideInUp {
+    from {
+      -webkit-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+      visibility: visible;
+    }
+  
+    to {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+  } */
+
+  /* #animate {
+    color: rgb(64,224,208);
+    text-align: center;
+    /* width: 100px; */
+    /* height: 100px; */
+    /* position: relative; 
+    background-color: black;
+    animation-name: slideInUp;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+} */
+
+
+@-webkit-keyframes zoomIn {
+    from {
+      opacity: 0;
+      -webkit-transform: scale3d(0.3, 0.3, 0.3);
+      transform: scale3d(0.3, 0.3, 0.3);
+    }
+  
+    50% {
+      opacity: 1;
+    }
+  } 
+
+#animate {
+    /* width: 100px; */
+    /* height: 100px;  */
+    position: relative;
+    /* background-color: red;  */
+    animation-name: zoomIn;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+
+#container{
+    height: 100%;
+}
+
+.wrapper {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+@-webkit-keyframes pulse {
+    from {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+  
+    50% {
+      -webkit-transform: scale3d(1.05, 1.05, 1.05);
+      transform: scale3d(1.05, 1.05, 1.05);
+    }
+  
+    to {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+  }
+
+  .wrapper {
+    color: rgb(64,224,208);
+    text-align: center;
+    /* width: 100px; */
+    /* height: 100px; */
+    position: relative;
+    background-color: black;
+    animation-name: pulse;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
 }
