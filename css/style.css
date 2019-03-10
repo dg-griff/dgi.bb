@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Orbitron', sans-serif;
+    margin-left: 10px;
     /* font-family: 'Special Elite', sans-serif; */
     /* font-family: 'Russo One', sans-serif; */
     /* font-family: 'Kaushan Script', sans-serif; */
@@ -20,7 +21,7 @@ body {
     text-shadow: 4px 4px 4px #aaa;
 }
 
-.intro {
+.middle {
     text-align: center;
 }
 
@@ -41,6 +42,7 @@ body {
 }
 
 .hilight:hover{
+    width: fit-content;
     color: 	rgb(64,224,208);
     background-color: black;
     border-color: black;
@@ -142,7 +144,7 @@ body {
     }
   }
 
-  .wrapper {
+.wrapper {
     color: rgb(64,224,208);
     text-align: center;
     /* width: 100px; */
@@ -151,5 +153,48 @@ body {
     background-color: black;
     animation-name: pulse;
     animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+
+#pageName {
+  color: rgb(64,224,208);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 100px; */
+    /* height: 100px; */
+    /* position: relative; */
+    background-color: black;
+    width: fit-content;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+#pageHeading {
+  color: rgb(64,224,208);
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* width: 100px; */
+    /* height: 100px; */
+    /* position: relative; */
+    background-color: black;
+    width: fit-content;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+.pop {
+  color: rgb(64,224,208);
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* width: 100px; */
+    /* height: 100px; */
+    /* position: relative; */
+    background-color: black;
+    width: fit-content;
+    animation-name: pulse;
+    animation-duration: 3s;
     animation-iteration-count: infinite;
 }
