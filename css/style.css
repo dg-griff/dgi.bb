@@ -1,0 +1,201 @@
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script|Luckiest+Guy|Open+Sans:bold|Orbitron:bold|Permanent+Marker|Russo+One|Special+Elite|Quantico:bold);
+
+body {
+    font-family: 'Orbitron', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Quantico', 'Helvetica', 'Arial', sans-serif;
+    margin-left: 0px;
+    /* font-family: 'Special Elite', sans-serif; */
+    /* font-family: 'Russo One', sans-serif; */
+    /* font-family: 'Kaushan Script', sans-serif; */
+    /* font-family: 'Luckiest Guy', sans-serif; */
+    /* font-family: 'Permanent Marker', sans-serif; */
+    /* font-family: 'Open Sans', sans-serif; */
+}
+
+/* h1 {
+    text-align: center;
+  } */
+
+
+#navmark{
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.middle {
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: black;
+}
+
+#nav-colour{
+    background-color: white;
+}
+
+.navbar{
+    color: black;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.hilight:hover{
+    width: fit-content;
+    color: 	rgb(64,224,208);
+    background-color: black;
+    border-color: black;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(0,0,0);
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+/* @-webkit-keyframes slideInUp {
+    from {
+      -webkit-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+      visibility: visible;
+    }
+  
+    to {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+  } */
+
+  /* #animate {
+    color: rgb(64,224,208);
+    text-align: center;
+    /* width: 100px; */
+    /* height: 100px; */
+    /* position: relative; 
+    background-color: black;
+    animation-name: slideInUp;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+} */
+
+
+@-webkit-keyframes zoomIn {
+    from {
+      opacity: 0;
+      -webkit-transform: scale3d(0.3, 0.3, 0.3);
+      transform: scale3d(0.3, 0.3, 0.3);
+    }
+  
+    50% {
+      opacity: 1;
+    }
+  } 
+
+#animate {
+    /* width: 100px; */
+    /* height: 100px;  */
+    position: relative;
+    /* background-color: red;  */
+    animation-name: zoomIn;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+
+#container{
+    height: 100%;
+}
+
+.wrapper {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+@-webkit-keyframes pulse {
+    from {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+  
+    50% {
+      -webkit-transform: scale3d(1.05, 1.05, 1.05);
+      transform: scale3d(1.05, 1.05, 1.05);
+    }
+  
+    to {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+  }
+
+.wrapper {
+    color: rgb(64,224,208);
+    text-align: center;
+    /* width: 100px; */
+    /* height: 100px; */
+    position: relative;
+    background-color: black;
+    animation-name: pulse;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+
+#pageName {
+  color: rgb(64,224,208);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 100px; */
+    /* height: 100px; */
+    /* position: relative; */
+    background-color: black;
+    width: fit-content;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+#pageHeading {
+  color: rgb(64,224,208);
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* width: 100px; */
+    /* height: 100px; */
+    /* position: relative; */
+    background-color: black;
+    width: fit-content;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+.pop {
+  color: rgb(64,224,208);
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* width: 100px; */
+    /* height: 100px; */
+    /* position: relative; */
+    background-color: black;
+    width: fit-content;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
