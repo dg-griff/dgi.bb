@@ -1,15 +1,17 @@
-@import url(https://fonts.googleapis.com/css?family=Kaushan+Script|Luckiest+Guy|Open+Sans:bold|Orbitron:bold|Permanent+Marker|Russo+One|Special+Elite|Quantico:bold);
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Luckiest+Guy|Open+Sans:bold|Orbitron:bold|Permanent+Marker|Russo+One|Special+Elite|Quantico:bold|Acme|Exo+2:400,700|Montserrat:400,500,600,700|Play|Roboto:400,700|Ubuntu:400,700');
 
 body {
-    /* font-family: 'Orbitron', 'Helvetica', 'Arial', sans-serif;
-    font-family: 'Quantico', 'Helvetica', 'Arial', sans-serif; */
-    margin-left: 0px;
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    font-weight: 700;
+    /* font-family: 'Orbitron', 'Helvetica', 'Arial', sans-serif; */
+    /* font-family: 'Quantico', 'Helvetica', 'Arial', sans-serif; */ */
+    /* margin-left: 0px; */
     /* font-family: 'Special Elite', sans-serif; */
     /* font-family: 'Russo One', sans-serif; */
     /* font-family: 'Kaushan Script', sans-serif; */
     /* font-family: 'Luckiest Guy', sans-serif; */
     /* font-family: 'Permanent Marker', sans-serif; */
-    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Open Sans', sans-serif;
 }
 
 /* h1 {
@@ -198,4 +200,9 @@ body {
     animation-name: pulse;
     animation-duration: 3s;
     animation-iteration-count: infinite;
+}
+
+h2, h3, h4, h5, h5 {
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    font-weight: 700;
 }
