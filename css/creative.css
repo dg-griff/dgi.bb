@@ -209,6 +209,9 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 svg {
@@ -492,6 +495,9 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .img-thumbnail {
