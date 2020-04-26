@@ -16,6 +16,9 @@ body {
 
 header.masthead{
   background-image: none;
+}
+
+img {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
