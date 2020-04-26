@@ -4,17 +4,18 @@ body {
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
     font-weight: 700;
     /* font-family: 'Orbitron', 'Helvetica', 'Arial', sans-serif; */
-    /* font-family: 'Quantico', 'Helvetica', 'Arial', sans-serif; */ */
+    /* font-family: 'Quantico', 'Helvetica', 'Arial', sans-serif; */
     /* margin-left: 0px; */
     /* font-family: 'Special Elite', sans-serif; */
     /* font-family: 'Russo One', sans-serif; */
     /* font-family: 'Kaushan Script', sans-serif; */
     /* font-family: 'Luckiest Guy', sans-serif; */
     /* font-family: 'Permanent Marker', sans-serif; */
-    /* font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
 }
 
-img {
+header.masthead{
+  background-image: none;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
