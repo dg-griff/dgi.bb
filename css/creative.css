@@ -211,7 +211,7 @@ img {
   border-style: none;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-image: none;
 }
 
 svg {
@@ -497,7 +497,7 @@ mark,
   height: auto;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-image: none;
 }
 
 .img-thumbnail {
