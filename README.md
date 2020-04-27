@@ -1,2 +1,2 @@
-# prime.dgi.bb
+# digitronicz.com
 Official DGtronicz® website
