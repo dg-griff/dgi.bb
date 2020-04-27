@@ -844,3 +844,60 @@ color: salmon;
   animation-duration: 3s;
   animation-iteration-count: infinite;
 }
+
+header.masthead {
+    background-color: white;
+}
+
+section#contact {
+    background-color: white;
+    color: black;
+}
+
+h2#textcontact.section-heading.text-uppercase {
+    color: black;
+}
+
+i.fas.fa-phone.fa-3x.mb-3.look {
+    color: black;
+}
+
+i.fas.fa-envelope.fa-3x.mb-3.look {
+    color: black;
+}
+
+a#contact-info.d-block {
+    color: black;
+}
+
+a#contact-info {
+    color: black;
+}
+
+h3.section-subheading.text-muted {
+    color: black;
+}
+
+div#texthead.intro-lead-in {
+    background-color: black;
+}
+
+a#showbutton.btn.btn-primary.btn-xl.text-uppercase.js-scroll-trigger {
+    background-color: black;
+    color: rgb(64,224,208);
+}
+
+a#showbutton.btn.btn-primary.btn-xl.text-uppercase.js-scroll-trigger:hover {
+    color: black;
+    background-color: rgb(64,224,208);
+}
+
+div.col-lg-6.ml-auto.text-center:hover {
+    background-color: rgb(64,224,208);
+    color: black;
+}
+
+div.col-lg-6.mr-auto.text-center:hover {
+    background-color: rgb(64,224,208);
+    color: black;
+}
