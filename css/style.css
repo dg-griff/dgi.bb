@@ -227,3 +227,16 @@ a.footer:hover {
   background-color: black;
   text-decoration: none;
 }
+
+a.nav-link.js-scroll-trigger:hover {
+  color: rgb(64,224,208);
+}
+
+a.nav-link.js-scroll-trigger.active:hover {
+  color: rgb(64,224,208);
+  font-size: 300px;
+}
+
+a.nav-link.js-scroll-trigger {
+  color: rgb(64,224,208);
+}
