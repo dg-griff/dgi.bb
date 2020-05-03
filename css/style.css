@@ -64,6 +64,9 @@ img {
 
 .custom-toggler.navbar-toggler {
     border-color: rgb(0,0,0);
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    font-weight: 700;
+    color: black;
 }
 
 .custom-toggler .navbar-toggler-icon {
@@ -234,7 +237,6 @@ a.nav-link.js-scroll-trigger:hover {
 
 a.nav-link.js-scroll-trigger.active:hover {
   color: rgb(64,224,208);
-  font-size: 300px;
 }
 
 a.nav-link.js-scroll-trigger {
