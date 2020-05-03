@@ -10623,12 +10623,14 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: rgb(64,224,208);
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: rgb(64,224,208) !important;
 }
+
+
 
 @media (min-width: 992px) {
   #mainNav {
@@ -10643,7 +10645,7 @@ hr.light {
     color: white;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    color: rgb(64,224,208);
+    color: rgb(64,224,208) !important;
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -10664,9 +10666,85 @@ hr.light {
     color: rgb(64,224,208);
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
-    color: black;
+    color: black !important;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
+    color: rgb(64,224,208) !important;
+  }
+
+  #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link.active {
+    color: rgb(64,224,208) !important;
+  }
+}
+
+
+@media (min-width: 768px) {
+  #mainNav .navbar-nav .nav-item .nav-link {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active:hover {
+    color: rgb(64,224,208);
+  }
+}
+
+
+@media (min-width: 576px) {
+  #mainNav .navbar-nav .nav-item .nav-link {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active:hover {
+    color: rgb(64,224,208);
+  }
+}
+
+@media (min-width: 384px) {
+  #mainNav .navbar-nav .nav-item .nav-link {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active:hover {
+    color: rgb(64,224,208);
+  }
+}
+
+@media (min-width: 192px) {
+  #mainNav .navbar-nav .nav-item .nav-link {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active:hover {
+    color: rgb(64,224,208);
+  }
+}
+
+@media (min-width: 12px) {
+  #mainNav .navbar-nav .nav-item .nav-link {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active {
+    color: black;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active:hover {
     color: rgb(64,224,208);
   }
 }
