@@ -142,7 +142,8 @@
   #mainNav .navbar-brand {
     color: rgb(64,224,208);
     background-color: black;
-    font-family: 'Ubuntu', 'Helvetica Neue', 'Arial', sans-serif;
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    font-weight: 700px;
     margin: 10px 0 0 10px;
     /* height: 1.0em; */
   }
@@ -153,11 +154,11 @@
   
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
-    font-weight: 400;
+    font-weight: 700px;
     padding: 0;
     letter-spacing: 1px;
     color: rgb(64,224,208);
-    font-family: 'Orbitron', 'Helvetica Neue', 'Arial', sans-serif;
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
   }
   
   #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
