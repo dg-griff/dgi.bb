@@ -14,6 +14,7 @@ body {
     /* font-family: 'Open Sans', sans-serif; */
 }
 
+
 header.masthead{
   background-image: none;
 }
@@ -233,6 +234,10 @@ a.footer:hover {
   text-decoration: none;
 }
 
+a.nav-link.js-scroll-trigger {
+  color: orangered;
+}
+
 a.nav-link.js-scroll-trigger:hover {
   color: rgb(64,224,208);
 }
@@ -241,6 +246,12 @@ a.nav-link.js-scroll-trigger.active:hover {
   color: rgb(64,224,208);
 }
 
-a.nav-link.js-scroll-trigger {
-  color: rgb(64,224,208);
+
+
+div#page-top.scroll-box {
+  scroll-behavior: smooth;
+}
+
+#mainNav.navbar-nav .nav-item .nav-link:hover {
+  color: white;
 }
