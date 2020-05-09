@@ -10936,3 +10936,11 @@ img.center {
 a.d-block {
   margin: 10px 0px 0px 0px;
 }
+
+section#social.page-section-social {
+  margin: 150px 0 150px 0;
+}
+
+section#about.page-section-about {
+  margin: 150px 0 150px 0;
+}
