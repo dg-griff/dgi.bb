@@ -10938,9 +10938,21 @@ a.d-block {
 }
 
 section#social.page-section-social {
-  margin: 150px 0 150px 0;
+  margin: 0 0 150px 0;
 }
 
 section#about.page-section-about {
-  margin: 150px 0 150px 0;
+  margin: 0 0 150px 0;
+}
+
+img.img-fluid {
+  margin: 120px 0 0 0;
+}
+
+hr.brand {
+  margin-bottom: 60px;
+}
+
+hr.about, hr.social {
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
