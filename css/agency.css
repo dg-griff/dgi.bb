@@ -10,7 +10,7 @@
     overflow-x: hidden;
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
     font-weight: 700;
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     background-color: black;
   }
   
@@ -19,7 +19,7 @@
   }
   
   a {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
   
   a:hover {
@@ -77,8 +77,8 @@
   }
   
   .btn-primary {
-    background-color: rgb(64,224,208);
-    border-color: rgb(64,224,208);
+    background-color: rgb(0,206,209);
+    border-color: rgb(0,206,209);
   }
   
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -93,7 +93,7 @@
   }
   
   ::selection {
-    background: rgb(64,224,208);
+    background: rgb(0,206,209);
     text-shadow: none;
   }
   
@@ -116,7 +116,7 @@
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); */
     /* font-size: 0.80em; */
     /* padding: 0;
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     border: 0;
     background-color: white;
     
@@ -126,10 +126,10 @@
     border-color: rgb(0,0,0);
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
     font-weight: 700;
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     font-size: 1.0em;
     padding: 0;
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     border: 0;
     margin: 10px 0 0 0;
 }
@@ -140,7 +140,7 @@
 
   
   #mainNav .navbar-brand {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     background-color: black;
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
     font-weight: 700px;
@@ -149,7 +149,7 @@
   }
   
   #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
   
   #mainNav .navbar-nav .nav-item .nav-link {
@@ -157,7 +157,7 @@
     font-weight: 700px;
     padding: 0;
     letter-spacing: 1px;
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
   }
   
@@ -195,7 +195,7 @@
   
   header.masthead {
     text-align: center;
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     /* background-image: url("/img/dgi-wordmark.png"); */
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -324,7 +324,7 @@
   }
 
   #portfolio .portfolio-item .portfolio-caption:hover{
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     background-color: black;
     border-color: black;
   }
@@ -630,7 +630,7 @@
   }
   
   section#contact .section-heading {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
   
   section#contact .form-group {
@@ -651,7 +651,7 @@
   }
   
   section#contact .form-control:focus {
-    border-color: rgb(64,224,208);
+    border-color: rgb(0,206,209);
     -webkit-box-shadow: none;
     box-shadow: none;
   }
@@ -719,7 +719,7 @@
   }
   
   ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-    background-color: rgb(64,224,208);
+    background-color: rgb(0,206,209);
   }
 
   .thumb {
@@ -749,7 +749,7 @@ img.vertical {
 } */
 
 h2 {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 #showbutton {
@@ -781,7 +781,7 @@ img#brandlogo {
 }
 
 #texthead {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
   font-family: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
 }
 
@@ -904,26 +904,26 @@ div#texthead.intro-lead-in {
 
 a#showbutton.btn.btn-primary.btn-xl.text-uppercase.js-scroll-trigger {
     background-color: black;
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
 }
 
 a#showbutton.btn.btn-primary.btn-xl.text-uppercase.js-scroll-trigger:hover {
     color: black;
-    background-color: rgb(64,224,208);
+    background-color: rgb(0,206,209);
 }
 
 div.col-lg-6.ml-auto.text-center:hover {
-    background-color: rgb(64,224,208);
+    background-color: rgb(0,206,209);
     color: black;
 }
 
 div.col-lg-6.mr-auto.text-center:hover {
-    background-color: rgb(64,224,208);
+    background-color: rgb(0,206,209);
     color: black;
 }
 
 span.copyright:hover {
     color:  black;
-    background-color: rgb(64,224,208);
+    background-color: rgb(0,206,209);
     text-decoration: none;
   }

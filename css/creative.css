@@ -164,7 +164,7 @@ sup {
 }
 
 a {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
   text-decoration: none;
   background-color: transparent;
 }
@@ -10615,7 +10615,7 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
   font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
   font-weight: 700;
   font-size: 0.9rem;
@@ -10623,7 +10623,7 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
@@ -10639,7 +10639,7 @@ hr.light {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
   #mainNav .navbar-brand:hover {
     color: white;
@@ -10663,7 +10663,7 @@ hr.light {
     color: black;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: black !important;
@@ -10688,7 +10688,7 @@ hr.light {
   }
 
   #mainNav .navbar-nav .nav-item .nav-link.active:hover {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
 }
 
@@ -10703,7 +10703,7 @@ hr.light {
   }
 
   #mainNav .navbar-nav .nav-item .nav-link.active:hover {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
 }
 
@@ -10717,7 +10717,7 @@ hr.light {
   }
 
   #mainNav .navbar-nav .nav-item .nav-link.active:hover {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
 }
 
@@ -10731,7 +10731,7 @@ hr.light {
   }
 
   #mainNav .navbar-nav .nav-item .nav-link.active:hover {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
 }
 
@@ -10745,7 +10745,7 @@ hr.light {
   }
 
   #mainNav .navbar-nav .nav-item .nav-link.active:hover {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
   }
 }
 
@@ -10842,7 +10842,7 @@ header.masthead {
 }
 
 section.about-page {
-  background-color: rgb(64,224,208);
+  background-color: rgb(0,206,209);
 }
 
 .nav-link {
@@ -10850,12 +10850,12 @@ section.about-page {
 }
 
 a {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 section.page-section {
   background-color: black;
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 i {
@@ -10863,16 +10863,16 @@ i {
 }
 
 .btn-primary {
-  background-color: rgb(64,224,208);
+  background-color: rgb(0,206,209);
   color: black;
 }
 
 .navbar-brand {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 a.nav-link {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 hr.devider {
@@ -10904,11 +10904,11 @@ section.page-section-about {
 }
 
 h1.heading {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 a.navheading {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 img.center {

@@ -58,7 +58,7 @@ img {
 
 .hilight:hover{
     width: fit-content;
-    color: 	rgb(64,224,208);
+    color: 	rgb(0,206,209);
     background-color: black;
     border-color: black;
 }
@@ -102,7 +102,7 @@ img {
   } */
 
   /* #animate {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     text-align: center;
     /* width: 100px; */
     /* height: 100px; */
@@ -165,7 +165,7 @@ img {
   }
 
 .wrapper {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     text-align: center;
     /* width: 100px; */
     /* height: 100px; */
@@ -177,7 +177,7 @@ img {
   }
 
 #pageName {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -192,7 +192,7 @@ img {
 }
 
 #pageHeading {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
     /* margin-left: auto;
     margin-right: auto; */
     /* width: 100px; */
@@ -206,7 +206,7 @@ img {
 }
 
 .pop {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
     /* margin-left: auto;
     margin-right: auto; */
     /* width: 100px; */
@@ -229,7 +229,7 @@ a.footer {
 }
 
 a.footer:hover {
-  color:  rgb(64,224,208);
+  color:  rgb(0,206,209);
   background-color: black;
   text-decoration: none;
 }
@@ -239,11 +239,11 @@ a.nav-link.js-scroll-trigger {
 }
 
 a.nav-link.js-scroll-trigger:hover {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 a.nav-link.js-scroll-trigger.active:hover {
-  color: rgb(64,224,208);
+  color: rgb(0,206,209);
 }
 
 
