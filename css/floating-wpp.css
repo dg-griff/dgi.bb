@@ -75,7 +75,7 @@
 
 .floating-wpp .floating-wpp-popup .floating-wpp-head {
     text-align: right;
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
     margin: 0 -15px 10px -15px;
     padding: 6px 12px;
     display: flex;
@@ -115,5 +115,5 @@ div.floating-wpp-message {
 }
 
 div.floating-wpp-head {
-    color: rgb(64,224,208);
+    color: rgb(0,206,209);
 }
