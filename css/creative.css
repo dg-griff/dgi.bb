@@ -5185,7 +5185,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #f4623a;
+  /* color: #f4623a; */
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -5219,8 +5219,8 @@ input[type="button"].btn-block {
 .page-item.active .page-link {
   z-index: 1;
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  /* background-color: #f4623a; */
+  /* border-color: #f4623a; */
 }
 
 .page-item.disabled .page-link {
@@ -5738,8 +5738,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  /* background-color: #f4623a; */
+  /* border-color: #f4623a; */
 }
 
 .list-group-horizontal {
@@ -10375,7 +10375,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  /* color: #f4623a !important; */
 }
 
 a.text-primary:hover, a.text-primary:focus {

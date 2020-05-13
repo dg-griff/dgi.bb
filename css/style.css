@@ -235,7 +235,7 @@ a.footer:hover {
 }
 
 a.nav-link.js-scroll-trigger {
-  color: orangered;
+  color: rgb(0,206,209);
 }
 
 a.nav-link.js-scroll-trigger:hover {
@@ -254,4 +254,20 @@ div#page-top.scroll-box {
 
 #mainNav.navbar-nav .nav-item .nav-link:hover {
   color: white;
+}
+
+/* select and style every <p> element inside <a> elements */
+a p {
+  text-decoration: none;
+  color: black;
+}
+
+/* select and style every <p> element inside <a> elements */
+a p:hover {
+  text-decoration: none;
+}
+
+/* select and style every <p> element inside <a> elements */
+a p:visited {
+  text-decoration: none;
 }
