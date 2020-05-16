@@ -2624,9 +2624,9 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary:hover {
-  color: #fff;
-  background-color: #f24516;
-  border-color: #ee3e0d;
+  color: black;
+  background-color: rgb(0,206,209);
+  border-color: rgb(0,206,209);
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -10863,8 +10863,8 @@ i {
 }
 
 .btn-primary {
-  background-color: rgb(0,206,209);
-  color: black;
+  background-color: black;
+  color: rgb(0,206,209);
 }
 
 .navbar-brand {
