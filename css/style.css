@@ -271,3 +271,8 @@ a p:hover {
 a p:visited {
   text-decoration: none;
 }
+
+ul.dev, ul.support, ul.software {
+  text-align: left;
+  color: white;
+}
