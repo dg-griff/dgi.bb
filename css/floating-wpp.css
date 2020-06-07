@@ -49,6 +49,7 @@
     opacity: 0;
     transition: bottom 0.1s ease-out, opacity 0.2s ease-out;
     transform-origin: bottom;
+    margin: 0 -110px 0;
 }
 
 .floating-wpp .floating-wpp-popup.active {
@@ -57,6 +58,7 @@
     height: auto;
     bottom: 82px;
     opacity: 1;
+    margin: 0 -110px 0;
 }
 
 .floating-wpp .floating-wpp-popup .floating-wpp-message {
@@ -136,7 +138,8 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: 3%;
+        right: -51%;
+        margin: 0 -110px 0;
     }
   }
 
@@ -148,7 +151,8 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: 2%;
+        right: -25.5%;
+        margin: 0 -110px 0;
     }
   }
 
@@ -160,7 +164,8 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: 2%;
+        right: -16.5%;
+        margin: 0 -110px 0;
     }
   }
 
@@ -172,7 +177,8 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: 1%;
+        right: -13%;
+        margin: 0 -110px 0;
     }
 }
 
@@ -184,7 +190,8 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: 1%;
+        right: -10.5%;
+        margin: 0 -110px 0;
     }
 }
 
@@ -196,6 +203,7 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: 0;
+        right: -8.5%;
+        margin: 0 -110px 0;
     }
 }
