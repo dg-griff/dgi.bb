@@ -160,7 +160,7 @@ p#whatsapp {
     }
 
     img.img-fluid {
-        margin: 40% 0 0 0;
+        margin: 120px 0 0 0;
       }
   }
 
@@ -177,10 +177,9 @@ p#whatsapp {
     }
 
     img.img-fluid {
-        margin: 40% 0 0 0;
+        margin: 120px 0 0 0;
       }
   }
-
   }
 
 @media (min-width: 768px) {
@@ -196,7 +195,7 @@ p#whatsapp {
     }
 
     img.img-fluid {
-        margin: 40% 0 0 0;
+        margin: 120px 0 0 0;
       }
   }
 }
@@ -214,7 +213,7 @@ p#whatsapp {
     }
 
     img.img-fluid {
-        margin: 40% 0 0 0;
+        margin: 120px 0 0 0;
       }
   }
 }
@@ -232,7 +231,7 @@ p#whatsapp {
     }
 
     img.img-fluid {
-        margin: 40% 0 0 0;
+        margin: 120px 0 0 0;
       }
   }
 }
