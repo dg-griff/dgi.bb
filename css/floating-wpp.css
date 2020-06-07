@@ -159,9 +159,9 @@ p#whatsapp {
         margin: 0 -110px 0;
     }
 
-    nav#mainNav {
-        max-width: 100%;
-    }
+    img.img-fluid {
+        margin: 40% 0 0 0;
+      }
   }
 
 @media (min-width: 576px) {
@@ -176,9 +176,11 @@ p#whatsapp {
         margin: 0 -110px 0;
     }
 
-    nav#mainNav {
-        max-width: 100%;
-    }
+    img.img-fluid {
+        margin: 40% 0 0 0;
+      }
+  }
+
   }
 
 @media (min-width: 768px) {
@@ -193,9 +195,10 @@ p#whatsapp {
         margin: 0 -110px 0;
     }
 
-    nav#mainNav {
-        max-width: 100%;
-    }
+    img.img-fluid {
+        margin: 40% 0 0 0;
+      }
+  }
 }
 
 @media (min-width: 992px) {
@@ -210,9 +213,10 @@ p#whatsapp {
         margin: 0 -110px 0;
     }
 
-    nav#mainNav {
-        max-width: 100%;
-    }
+    img.img-fluid {
+        margin: 40% 0 0 0;
+      }
+  }
 }
 
 @media (min-width: 1080px) {
@@ -227,9 +231,10 @@ p#whatsapp {
         margin: 0 -110px 0;
     }
 
-    nav#mainNav {
-        max-width: 100%;
-    }
+    img.img-fluid {
+        margin: 40% 0 0 0;
+      }
+  }
 }
 
 @media (min-width: 1200px) {
@@ -242,9 +247,5 @@ p#whatsapp {
         overflow: hidden;
         right: -8.5%;
         margin: 0 -110px 0;
-    }
-
-    nav#mainNav {
-        max-width: 100%;
     }
 }
