@@ -10993,9 +10993,9 @@ hr.about, hr.social {
 }
 
 @media (min-width: 1200px) {
-  /* html {
+  html {
     overflow-x: hidden;
-  } */
+  }
   
   #mainNav {
     -webkit-box-shadow: none;
