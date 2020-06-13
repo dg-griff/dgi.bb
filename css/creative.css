@@ -10635,6 +10635,10 @@ hr.light {
 
 
 @media (min-width: 992px) {
+  html {
+    overflow-x: hidden;
+  }
+  
   #mainNav {
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -10791,6 +10795,10 @@ header.masthead h1 {
 }
 
 @media (min-width: 992px) {
+  /* html {
+    overflow: hidden;
+  } */
+
   header.masthead {
     height: 100vh;
     min-height: 40rem;
@@ -10809,10 +10817,6 @@ header.masthead h1 {
 }
 
 @media (min-width: 1200px) {
-  /* html {
-    overflow-x: hidden;
-  } */
-
   header.masthead h1 {
     font-size: 3.5rem;
   }
