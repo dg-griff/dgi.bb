@@ -4,6 +4,7 @@ body {
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
     font-weight: 700;
     overflow-x: hidden;
+    position: relative;
     /* font-family: 'Orbitron', 'Helvetica', 'Arial', sans-serif; */
     /* font-family: 'Quantico', 'Helvetica', 'Arial', sans-serif; */
     /* margin-left: 0px; */
