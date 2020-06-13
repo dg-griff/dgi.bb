@@ -3,6 +3,7 @@
 body {
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
     font-weight: 700;
+    overflow-x: hidden;
     /* font-family: 'Orbitron', 'Helvetica', 'Arial', sans-serif; */
     /* font-family: 'Quantico', 'Helvetica', 'Arial', sans-serif; */
     /* margin-left: 0px; */
@@ -275,22 +276,4 @@ a p:visited {
 ul.dev, ul.support, ul.software {
   text-align: left;
   color: white;
-}
-
-@media (min-width: 991px) {
-  html, body {
-    overflow-x: hidden;
-  }
-}
-
-@media (min-width: 768px) {
-  html, body {
-    overflow-x: hidden;
-  }
-}
-
-@media (min-width: 12px) {
-  html, body {
-    overflow-x: hidden;
-  }
 }

@@ -252,21 +252,3 @@ p#whatsapp {
 div.floating-wpp-button {
     max-width: 72px;
 }
-
-@media (min-width: 991px) {
-    html, body {
-      overflow-x: hidden;
-    }
-  }
-
-  @media (min-width: 768px) {
-    html, body {
-      overflow-x: hidden;
-    }
-  }
-
-  @media (min-width: 12px) {
-    html, body {
-      overflow-x: hidden;
-    }
-  }
