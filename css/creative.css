@@ -10633,7 +10633,7 @@ hr.light {
 
 
 @media (min-width: 992px) {
-  html {
+  html, body {
     overflow-x: hidden;
   }
   
@@ -10993,7 +10993,7 @@ hr.about, hr.social {
 }
 
 @media (min-width: 1200px) {
-  html {
+  html, body {
     overflow-x: hidden;
   }
   
