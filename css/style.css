@@ -288,3 +288,9 @@ ul.dev, ul.support, ul.software {
     overflow-x: hidden;
   }
 }
+
+@media (min-width: 12px) {
+  html, body {
+    overflow-x: hidden;
+  }
+}
