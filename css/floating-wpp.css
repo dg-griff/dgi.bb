@@ -248,3 +248,7 @@ p#whatsapp {
         margin: 0 -110px 0;
     }
 }
+
+div.floating-wpp-button {
+    max-width: 72px;
+}

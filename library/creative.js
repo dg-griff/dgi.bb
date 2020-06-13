@@ -60,12 +60,12 @@
            $('#WAButton').floatingWhatsApp({
                phone: '12468426783', //WhatsApp Business phone number
                headerTitle: 'DGtronicz® on WhatsApp', //Popup Title
-               popupMessage: 'Welcome to DGtronicz®! How may we help?', //Popup Message
+               popupMessage: 'Welcome to DGtronicz® How may we help?', //Popup Message
                showPopup: true, //Enables popup display
                buttonImage: '<img src="images/whatsapp.svg" id="whatsapp" />', //Button Image
                headerColor: 'black', //Custom header color
                // backgroundColor: 'black', //Custom background button color
-               position: "right" //Position: left | right
+               position: "left" //Position: left | right
 
            });
        });
