@@ -258,3 +258,9 @@ div.floating-wpp-button {
       overflow-x: hidden;
     }
   }
+
+  @media (min-width: 768px) {
+    html, body {
+      overflow-x: hidden;
+    }
+  }
