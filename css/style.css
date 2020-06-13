@@ -69,7 +69,6 @@ img {
     font-weight: 700;
     color: black;
     font-size: 0.9em;
-    margin-right: 30%;
 }
 
 /* Hamburger menu button */
@@ -278,6 +277,6 @@ ul.dev, ul.support, ul.software {
   color: white;
 }
 
-html,body{
+html, body{
   overflow-x: hidden;
 }
