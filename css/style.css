@@ -273,10 +273,15 @@ a p:visited {
 }
 
 ul.dev, ul.support, ul.software {
-  text-align: left;
+  text-align: center;
+  list-style-position: inside;
   color: white;
 }
 
 section#contact{
   overflow-x: hidden;
+}
+
+p.description {
+  text-align: center;
 }
