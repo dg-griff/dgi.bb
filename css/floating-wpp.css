@@ -138,8 +138,6 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: -51%;
-        margin: 0 -110px 0;
     }
 
     nav#mainNav {
@@ -155,8 +153,6 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: -25.5%;
-        margin: 0 -110px 0;
     }
 
     img.img-fluid {
@@ -172,8 +168,6 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: -16.5%;
-        margin: 0 -110px 0;
     }
 
     img.img-fluid {
@@ -190,8 +184,6 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: -13%;
-        margin: 0 -110px 0;
     }
 
     img.img-fluid {
@@ -208,8 +200,6 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: -10.5%;
-        margin: 0 -110px 0;
     }
 
     img.img-fluid {
@@ -226,8 +216,6 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: -10.5%;
-        margin: 0 -110px 0;
     }
 
     img.img-fluid {
@@ -244,8 +232,6 @@ p#whatsapp {
         transition: box-shadow 0.2s;
         cursor: pointer;
         overflow: hidden;
-        right: -8.5%;
-        margin: 0 -110px 0;
     }
 }
 
