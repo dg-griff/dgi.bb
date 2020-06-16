@@ -272,7 +272,7 @@ a p:visited {
   text-decoration: none;
 }
 
-ul.dev, ul.support, ul.software {
+ul.commercial, ul.residential {
   text-align: center;
   list-style-position: inside;
   color: white;
@@ -284,4 +284,12 @@ section#contact{
 
 p.description {
   text-align: center;
+}
+
+ul.commercial {
+  margin-right: 10%;
+}
+
+ul.residential {
+  margin-right: 10%;
 }
