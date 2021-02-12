@@ -1,0 +1,24 @@
+{
+  "name": "prime.dgi.bb",
+  "version": "1.0.0",
+  "description": "json file",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dg-griff/prime.dgi.bb.git"
+  },
+  "author": "Damien C.W. Griffith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dg-griff/prime.dgi.bb/issues"
+  },
+  "homepage": "https://github.com/dg-griff/prime.dgi.bb#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
