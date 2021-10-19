@@ -293,3 +293,15 @@ ul.commercial {
 ul.residential {
   margin-right: 10%;
 }
+
+.home-link {
+  color: black;
+}
+
+#linkHome {
+  color: black;
+}
+
+#linkPriv {
+  color: black;
+}
