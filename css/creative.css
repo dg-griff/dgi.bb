@@ -4779,9 +4779,13 @@ input[type="button"].btn-block {
   color: rgba(0, 0, 0, 0.9);
 }
 
-.navbar-light .navbar-nav .nav-link {
-  color: rgba(0, 0, 0, 0.5);
-}
+/* .navbar-light .navbar-nav .nav-link {
+  color: black;
+} */
+
+/* .navbar-light .navbar-nav .nav-link .priv-link{
+  color: white;
+} */
 
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
   color: rgba(0, 0, 0, 0.7);
@@ -10903,6 +10907,10 @@ i {
 
 a.nav-link {
   color: rgb(0,206,209);
+}
+
+a.nav-link .home-link {
+  color: black;
 }
 
 hr.devider {
