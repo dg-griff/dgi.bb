@@ -68,7 +68,7 @@ img {
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
     font-weight: 700;
     color: black;
-    font-size: 0.9em;
+    font-size: 1.6em;
 }
 
 /* Hamburger menu button */
@@ -304,4 +304,16 @@ ul.residential {
 
 #linkPriv {
   color: black;
+}
+
+.footer-nav {
+  float:none;
+  margin:0 auto;
+  display: block;
+  text-align: center;
+}
+
+ .footer-nav > li {
+  display: inline-block;
+  float:none;
 }
